@@ -22,3 +22,21 @@ console.log("a",myArr);
 const my1 = myArr.slice(1,3)
 console.log(my1)
 console.log("b",myArr);
+
+
+
+
+const marvel_heroes = ["thor","spiderman","ironman"]
+const dc = ["superman","flash","batman"]
+// marvel_heroes.push(dc);
+// console.log(marvel_heroes);
+const allheroes = marvel_heroes.concat(dc)
+console.log(allheroes);
+
+
+const allnewhero = [...marvel_heroes,...dc];
+console.log(allnewhero)
+
+
+console.log(Array.isArray("hitesh"))
+
