@@ -87,7 +87,7 @@ navbar(company = "hitesh")///
 //     price:"free"
 // }
 
-// [                        array ki format mr APIs
+// [                        array ki format me APIs
 //     {}
 //     {}
 //     {}
