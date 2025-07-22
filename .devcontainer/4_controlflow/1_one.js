@@ -32,8 +32,18 @@ const balance= 1000
 //     console.log("less than 1200");
 // }                        
 
-const userloggedin = true
-const debitcard = true
-if(userloggedin &&debitcard) {
-    console.log("allow to buy course");
+// const userloggedin = true
+// const debitcard = true
+// if(userloggedin &&debitcard && 2==3) {
+    // console.log("allow to buy course");
+// }
+// if(loggedinfromgoogle || loggedinfromemail){
+    // console.log("user logged in");
+// }
+
+if (Object.keys(emptyObj).length ===0){
+    console.log("object is empty");
 }
+
+
+
