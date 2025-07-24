@@ -72,4 +72,6 @@ mynums.forEach( (num) => {
         newnums.push(num)
     }
 })
-console.log(newnums)
+// console.log(newnums)
+
+
